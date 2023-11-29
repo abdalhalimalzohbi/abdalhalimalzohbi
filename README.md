@@ -122,7 +122,7 @@
 
 <li>
 <a href="https://www.linkedin.com/in/abdalhalim-alzohbi-94b9b8225?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BiOsFQqiiR2O09hz1G9dKJw%3D%3D" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  0xabdulkhalid-0077B5.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin/>
+<img src="https://img.shields.io/badge/linkedin:  abdalhalim alzohbi-0077B5.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin/>
 </a>
 </li>
 
@@ -134,7 +134,7 @@
 
 <li>
 <a href="mailto:azohbi123@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  0xabdulkhalid-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail/>
+<img src="https://img.shields.io/badge/gmail:  abdalhalim alzohbi-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail/>
 </a>
 </li>
 	
