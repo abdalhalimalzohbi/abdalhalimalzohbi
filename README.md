@@ -21,7 +21,7 @@
 <br>
 
 
-- Hello, and welcome to my GitHub profile! My name is Abdalhalim Alzohbi, and I am a self-taught fronbackendt-end developer with a passion for creating engaging and user-friendly web applications and mobile apps. 
+- Hello, and welcome to my GitHub profile! My name is Abdalhalim Alzohbi, and I am a self-taught fronbackendt-end developer with a passion for creating engaging and user-friendly web applications and i am also interested in python and shell and mobile apps. 
 
 - Currently, I am pursuing a Bachelor's degree in Computer Science, where I am also learning and expanding my knowledge in software development.
 
