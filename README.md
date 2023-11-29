@@ -1,8 +1,8 @@
 
-<h1 align="center"><b>Hi , I'm Abdalhalim 2</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Abdalhalim Alzohbi</b></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Full Stack Web developer;++;AWS Certified Solution Architect;CyberSecurity Researcher;Active+Learner/Researcher">
 </p>
 
 
@@ -11,17 +11,17 @@
 
 
 	
-## <picture><img src = "./assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+<!--## <picture><img src = "./assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 <picture>
   <source media="(max-width: 767px)" srcset="">
   <img align="right" alt="" src="./assets/mdImages/programming.svg" width=300px>
-</picture>
+</picture>-->
 
 <br>
 
 
-- Hello, and welcome to my GitHub profile! My name is Abdalhalim Alzohbi, and I am a self-taught fronbackendt-end developer with a passion for creating engaging and user-friendly web applications and i am also interested in python and shell and mobile apps. 
+- Hello, and welcome to my GitHub profile! My name is Abdalhalim Alzohbi,I am a self-taught fullStack web developer.
 
 - Currently, I am pursuing a Bachelor's degree in Computer Science, where I am also learning and expanding my knowledge in software development.
 
@@ -32,12 +32,10 @@
 - My portfolio on GitHub reflects my dedication to constantly learning and improving as a developer. I am always on the lookout for new challenges that will push me out of my comfort zone and help me grow my skills.
 
 - My ultimate goal is to create innovative and user-friendly web applications that provide real value to users.
--bughunter
 
 - I am always open to new ideas and opportunities to collaborate with other passionate developers. If you're interested in discussing potential projects or just want to say hello, feel free to reach out to me at <a href="azohbi123@gmail.com">azohbi123@gmail.com</a>
 
 - Thank you for visiting my profile, and I look forward to connecting with you!
-- i work as an CyberSecurity Researcher.
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
@@ -61,11 +59,6 @@
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
    ![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
 
-<br>
-
-- **Cloud Hosting**:
-
-    ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
     
 <br>
 
@@ -74,7 +67,6 @@
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
     ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
-    ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)&nbsp;
     ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
     ![Archcraft](https://img.shields.io/badge/Archcraft-%23404d59?style=for-the-badge&logo=archlinux&logoColor=%#1793D1)&nbsp;
 
@@ -85,13 +77,9 @@
     ![GNU BASH](https://img.shields.io/badge/GNU%20Bash-000000?style=for-the-badge&logo=GNU%20Bash&logoColor=white)&nbsp;
     ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)&nbsp;  
 
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
 
-<br>
-<br>
-
------
 
 <br>
 
@@ -106,15 +94,12 @@
 
 </div>
 
-<br>
-<br>
-
------
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br>
 <br>
 
-## <b> Let's Connect..!</b><img src="./assets/mdImages/handshake.gif" width ="80">
+## <b> Let's Connect..!</b>
 <br>
 <div align='left'>
 
@@ -125,13 +110,7 @@
 <img src="https://img.shields.io/badge/linkedin:  abdalhalim alzohbi-0077B5.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin/>
 </a>
 </li>
-
 <br>
-
-</li>
-
-<br>
-
 <li>
 <a href="mailto:azohbi123@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail:  abdalhalim alzohbi-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail/>
@@ -140,17 +119,3 @@
 	
 </ul>
 </div>
-
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
-<br>
-<br>
-
-<div align='center'>
-
-## <b>السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ...✨</b>
-
-</div>
-<br>
-<br>
