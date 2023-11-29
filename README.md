@@ -89,8 +89,7 @@
 
 <div align="center">
 
-[![Abdalhalim's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=abdalhalim&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Abdalhalim's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=abdalhalim&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdalhalimalzohbi&show_icons=true&theme=radical&text_color=63fafd&bg_color=282a36&locale=en" alt="abdalhalimalzohbi" /></p>
 
 </div>
 
