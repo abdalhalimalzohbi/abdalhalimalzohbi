@@ -5,7 +5,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Full Stack Web developer;++;AWS Certified Solution Architect;CyberSecurity Researcher;Active+Learner/Researcher">
 </p>
 
-
+<br>
+<br>
 <br>
 
 
