@@ -21,7 +21,7 @@
 <br>
 
 
-- Hello, and welcome to my GitHub profile! My name is Abdul Khalid, and I am a self-taught front-end developer with a passion for creating engaging and user-friendly web applications. 
+- Hello, and welcome to my GitHub profile! My name is Abdalhalim Alzohbi, and I am a self-taught front-end developer with a passion for creating engaging and user-friendly web applications. 
 
 - Currently, I am pursuing a Bachelor's degree in Computer Science, where I am also learning and expanding my knowledge in software development.
 
@@ -31,14 +31,13 @@
 
 - My portfolio on GitHub reflects my dedication to constantly learning and improving as a developer. I am always on the lookout for new challenges that will push me out of my comfort zone and help me grow my skills.
 
-- I encourage you to take a look at my work on <a href="https://www.frontendmentor.io/profile/0xAbdulKhalid">Frontend Mentor</a>, where I have completed several design challenges to showcase my abilities.
-
 - My ultimate goal is to create innovative and user-friendly web applications that provide real value to users.
+-bughunter
 
-- I am always open to new ideas and opportunities to collaborate with other passionate developers. If you're interested in discussing potential projects or just want to say hello, feel free to reach out to me at <a href="mailto:0xabdulkhalid@gmail.com">0xabdulkhalid@gmail.com</a>
+- I am always open to new ideas and opportunities to collaborate with other passionate developers. If you're interested in discussing potential projects or just want to say hello, feel free to reach out to me at <a href="azohbi123@gmail.com">azohbi123@gmail.com</a>
 
 - Thank you for visiting my profile, and I look forward to connecting with you!
-
+- i work as an CyberSecurity Researcher.
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
