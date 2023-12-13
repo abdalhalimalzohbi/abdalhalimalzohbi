@@ -2,7 +2,7 @@
 <h1 align="center"><b>Abdalhalim Alzohbi</b></h1>
 
 <p align="center">
-  <img src="http://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Web+developer;++;AWS Certified+Cloud+Practitioner;CyberSecurity+Researcher;Active+Learner/Researcher">
+  <img src="http://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Web+developer;++;AWS+Certified+Cloud+Practitioner;CyberSecurity+Researcher;Active+Learner/Researcher">
 </p>
 
 <br>
@@ -22,7 +22,7 @@
 
 - Hello, and welcome to my GitHub profile! My name is Abdalhalim Alzohbi,I am a self-taught fullStack web developer.
 
-- Currently, I am pursuing a Bachelor's degree in Computer Science, where I am also learning and expanding my knowledge in software development.
+- Currently, I am pursuing a Bachelor's degree in Information Technology, where I am also learning and expanding my knowledge in software development.
 
 - As a self-taught developer, I have taken the initiative to learn the latest technologies and techniques for creating dynamic and engaging user interfaces.
 
