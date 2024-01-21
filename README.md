@@ -32,7 +32,7 @@
 
 - My ultimate goal is to create innovative and user-friendly web applications that provide real value to users.
 
-- I am always open to new ideas and opportunities to collaborate with other passionate developers. If you're interested in discussing potential projects or just want to say hello, feel free to reach out to me at <a href="azohbi123@gmail.com">azohbi123@gmail.com</a>
+- I am always open to new ideas and opportunities to collaborate with other passionate developers. If you're interested in discussing potential projects or just want to say hello, feel free to reach out to me at <a href="abdalhalimalzohbi@gmail.com">abdalhalimalzohbi@gmail.com</a>
 
 - Thank you for visiting my profile, and I look forward to connecting with you!
 <br><br>
@@ -47,7 +47,10 @@
 - **Languages**:
 
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+   ![Java](https://img.shields.io/badge/Java%20-%23E76F00.svg?style=for-the-badge&logo=java&logoColor=white)
+
+
+
 
 
 <br>   
@@ -57,6 +60,26 @@
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
    ![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
+  ![Bootstrap](https://img.shields.io/badge/Bootstrap%20-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
+  ![Vanilla JavaScript](https://img.shields.io/badge/Vanilla%20JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+
+
+    
+<br>
+<br>   
+    
+- **Back-End Development**:
+
+  ![PHP](https://img.shields.io/badge/PHP%20-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+&nbsp;
+![Node.js](https://img.shields.io/badge/Node.js%20-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
+&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL%20-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
+&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB%20-%234EA94B.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+&nbsp;
+
+
 
     
 <br>
@@ -65,16 +88,16 @@
 
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
-    ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
-    ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
-    ![Archcraft](https://img.shields.io/badge/Archcraft-%23404d59?style=for-the-badge&logo=archlinux&logoColor=%#1793D1)&nbsp;
+    
 
 <br>
 
 - **Extras**:
 
     ![GNU BASH](https://img.shields.io/badge/GNU%20Bash-000000?style=for-the-badge&logo=GNU%20Bash&logoColor=white)&nbsp;
-    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)&nbsp;  
+    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)&nbsp;
+    ![AWS](https://img.shields.io/badge/AWS%20-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
@@ -110,7 +133,7 @@
 </li>
 <br>
 <li>
-<a href="mailto:azohbi123@gmail.com" target="_blank">
+<a href="mailto:abdalhalimalzohbi@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail:  abdalhalim alzohbi-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail/>
 </a>
 </li>
