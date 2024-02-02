@@ -7,9 +7,6 @@
 
 <br>
 
-
-
-	
 <!--## <picture><img src = "./assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 <picture>
@@ -111,7 +108,7 @@
 
 <div align="center">
 
-<p>&nbsp;<img align="center" src="http://github-readme-stats.vercel.app/api?username=abdalhalimalzohbi&show_icons=true&theme=radical&text_color=63fafd&bg_color=282a36&locale=en" alt="abdalhalimalzohbi" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdalhalimalzohbi&show_icons=true&theme=radical&text_color=63fafd&bg_color=282a36&locale=en" alt="abdalhalimalzohbi" /></p>
 
 </div>
 
