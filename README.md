@@ -1,124 +1,78 @@
-
 <h1 align="center"><b>Abdalhalim Alzohbi</b></h1>
 
 <p align="center">
-  <img src="http://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Web+developer;++;AWS+Certified+Cloud+Practitioner;CyberSecurity+Researcher;Active+Learner/Researcher">
+  <img src="http://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer;++;AWS+Solutions+Architect;AI Enthusiast">
 </p>
 
 <br>
-
-<!--## <picture><img src = "./assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-
-<picture>
-  <source media="(max-width: 767px)" srcset="">
-  <img align="right" alt="" src="./assets/mdImages/programming.svg" width=300px>
-</picture>-->
-
 <br>
 
+Hello, I'm Abdalhalim Alzohbi, a Software Engineer specializing in the MERN stack,
+with expertise in developing innovative web applications and building cross-platform mobile apps with AI-driven features, including fine-tuning and prompt engineering, as well as developing softwares that leverages multi-agent systems.
+As an AWS Certified Solutions Architect, I am dedicated to crafting scalable and efficient solutions.
 
-- Hello, and welcome to my GitHub profile! My name is Abdalhalim Alzohbi,I am a self-taught fullStack web developer.
-
-- Currently, I am pursuing a Bachelor's degree in Information Technology, where I am also learning and expanding my knowledge in software development.
-
-- As a self-taught developer, I have taken the initiative to learn the latest technologies and techniques for creating dynamic and engaging user interfaces.
-
-- My portfolio on GitHub reflects my dedication to constantly learning and improving as a developer. I am always on the lookout for new challenges that will push me out of my comfort zone and help me grow my skills.
-
-- My ultimate goal is to create innovative and user-friendly web applications that provide real value to users.
-
-- I am always open to new ideas and opportunities to collaborate with other passionate developers. If you're interested in discussing potential projects or just want to say hello, feel free to reach out to me at <a href="abdalhalimalzohbi@gmail.com">abdalhalimalzohbi@gmail.com</a>
-
-- Thank you for visiting my profile, and I look forward to connecting with you!
+Thank you for visiting my profile, and I look forward to Connect and build something incredible together!
 <br><br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+## Tech I Work With
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<br>
+#### Programming Languages
 
-<p align="center">
+![My Skills](https://skillicons.dev/icons?i=python,java,cs,js,dart)
 
-- **Languages**:
+#### Backend Development
 
-    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-   ![Java](https://img.shields.io/badge/Java%20-%23E76F00.svg?style=for-the-badge&logo=java&logoColor=white)
+![My Skills](https://skillicons.dev/icons?i=express,fastapi,php)
 
+#### Databases & Queuing Systems
 
+![My Skills](https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase,rabbitmq,redis)
 
+#### Frontend Development
 
+![My Skills](https://skillicons.dev/icons?i=html,css,ts,react,redux)
+![My Skills](https://skillicons.dev/icons?i=tailwind,bootstrap)
 
-<br>   
-    
-- **Front-End Development**:
+#### Mobile Development
 
-   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-   ![JavaScript](https://img.shields.io/badge/%20JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-   ![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
-  ![Bootstrap](https://img.shields.io/badge/Bootstrap%20-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![My Skills](https://skillicons.dev/icons?i=flutter)
 
+#### Development & Version Control
 
+![My Skills](https://skillicons.dev/icons?i=git,github,vscode,nodejs)
+![My Skills](https://skillicons.dev/icons?i=vite,npm,pnpm)
 
-    
-<br>
-<br>   
-    
-- **Back-End Development**:
+#### Cloud Services & Deployment
 
-  ![PHP](https://img.shields.io/badge/PHP%20-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-&nbsp;
-![Node.js](https://img.shields.io/badge/Node.js%20-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
-&nbsp;
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%23000000)&nbsp;
-![MySQL](https://img.shields.io/badge/MySQL%20-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
-&nbsp;
-![MongoDB](https://img.shields.io/badge/MongoDB%20-%234EA94B.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-&nbsp;
+![My Skills](https://skillicons.dev/icons?i=aws,vercel,docker)
 
+#### Operating Systems & Environments
 
+![My Skills](https://skillicons.dev/icons?i=windows,ubuntu,kali)
 
-    
-<br>
+#### AI & Machine Learning Tools
 
-- **Softwares and Tools**:
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Tesseract_OCR_logo_%28Google%29.png" width="100" height="50" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/LangChain_logo.png" width="100" height="50" />
 
-    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
-    
+#### Workflow Orchestration
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" alt="Airflow" width="150"/>
 
 <br>
 
-- **Extras**:
-
-    ![GNU BASH](https://img.shields.io/badge/GNU%20Bash-000000?style=for-the-badge&logo=GNU%20Bash&logoColor=white)&nbsp;
-    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)&nbsp;
-    ![AWS](https://img.shields.io/badge/AWS%20-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>
-
-
-<br>
-
-
-## <img src="http://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<br>
-
-<div align="center">
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdalhalimalzohbi&show_icons=true&theme=radical&text_color=63fafd&bg_color=282a36&locale=en" alt="abdalhalimalzohbi" /></p>
+<div align="center" style="width: 100% ;display: flex; flex-direction: column; justify-content: center; align-item: center; gap: 20px;">
+    <div align="center" style="width: 100% ;display: flex; justify-content: center; align-item: center; gap: 20px;">
+        <img src="https://github-readme-stats.vercel.app/api?username=abdalhalimalzohbi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+            <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdalhalimalzohbi&show_icons=true&locale=en&layout=compact&theme=dracula" height="150" alt="stats graph"  />
+            </div>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br>
 <br>
 
 ## <b> Let's Connect..!</b>
+
 <br>
 <div align='left'>
 
