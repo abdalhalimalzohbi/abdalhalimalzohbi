@@ -1,7 +1,7 @@
 <h1 align="center"><b>Abdalhalim Alzohbi</b></h1>
 
 <p align="center">
-  <img src="http://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer;++;AWS+Solutions+Architect;AI Enthusiast">
+  <img src="http://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer;++;AWS+Solutions+Architect;AI+Enthusiast">
 </p>
 
 <br>
